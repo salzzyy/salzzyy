@@ -4,6 +4,8 @@ Hi 👋 My name is Saloni Singh
 Data Scientist.
 ---------------
 
+👩‍💻 Salzzyy the coder | Aspiring Software Engineer & Tech Enthusiast 🌟 Passionate about turning ideas into impactful solutions 📚 Learning every day, building step by step 🚀 Currently diving into Data Science, APIs, and GenAI. 🔍 Exploring Object-Oriented Programming and Algorithms for Interviews 🧠 Working on mastering Machine Learning and Natural Language Processing (NLP) 🌍 Aspiring to revolutionize healthcare technology as a future CEO 💻 Always curious and resilient, breaking barriers in tech ✨ Let's build a better world, one line of code at a time! 📫 Let’s connect: https://www.linkedin.com/in/saloni-singh-iitkharagpur/ 📂 Check out my projects below and feel free to collaborate!
+
 * 🌍  I'm based in India
 
 ### Skills
